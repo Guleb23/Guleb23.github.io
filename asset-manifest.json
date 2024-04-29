@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Guleb23.github.io/static/css/main.035d1fc4.css",
+    "main.js": "/Guleb23.github.io/static/js/main.45e59b30.js",
+    "static/js/787.2ac40d18.chunk.js": "/Guleb23.github.io/static/js/787.2ac40d18.chunk.js",
+    "index.html": "/Guleb23.github.io/index.html",
+    "main.035d1fc4.css.map": "/Guleb23.github.io/static/css/main.035d1fc4.css.map",
+    "main.45e59b30.js.map": "/Guleb23.github.io/static/js/main.45e59b30.js.map",
+    "787.2ac40d18.chunk.js.map": "/Guleb23.github.io/static/js/787.2ac40d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.035d1fc4.css",
+    "static/js/main.45e59b30.js"
+  ]
+}
